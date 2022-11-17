@@ -1,4 +1,5 @@
 
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -22,10 +23,10 @@ public class Main {
 		
 		
 		System.out.println("Test Cases for String Rotation=");
-		testStringRotation();
+		teststringRotation();
     }
 
-    private static void testStringRotation() {
+    private static void teststringRotation() {
 		// TODO Auto-generated method stub
     	String result = stringRotation("TESTRTSMYSTRING", 5);
     	System.out.println("Result for String 'TESTRTSMYSTRING' with rotation length 5 = "+result);
