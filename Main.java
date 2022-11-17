@@ -22,10 +22,10 @@ public class Main {
 		
 		
 		System.out.println("Test Cases for String Rotation=");
-		teststringRotation();
+		testStringRotation();
     }
 
-    private static void teststringRotation() {
+    private static void testStringRotation() {
 		// TODO Auto-generated method stub
     	String result = stringRotation("TESTRTSMYSTRING", 5);
     	System.out.println("Result for String 'TESTRTSMYSTRING' with rotation length 5 = "+result);
