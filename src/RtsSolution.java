@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class RtsTest {
+public class RtsSolution {
 	public static Map<String,Integer> aboveBelow(List<Integer> list, int value){
 
 		Map<String, Integer> result = new HashMap<>();
